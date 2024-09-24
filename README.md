@@ -8,7 +8,7 @@ I'm Ilya, web developer.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias-Wide&count_private=true&hide=issues,contribs&show_icons=true&theme=nightowl&hide_border=true)
 
 ## Technologies and tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaKhinevich&layout=compact&theme=nightowl&hide_border=true&langs_count=5&hide_title=true)](https://github.com/OlgaKhinevich/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Wideh&layout=compact&theme=nightowl&hide_border=true&langs_count=5&hide_title=true)](https://github.com/Elias-Wide/github-readme-stats)  
 
 #### Backend  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
