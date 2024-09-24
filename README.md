@@ -5,7 +5,7 @@ I'm Ilya, web developer.
 :small_orange_diamond: I strive to keep my knowledge up to date ![CodeWars](https://www.codewars.com/users/OlgaKhinevich/badges/small)  
 :small_orange_diamond: I carry out the assigned tasks responsibly.  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaKhinevich&count_private=true&hide=issues,contribs&show_icons=true&theme=nightowl&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias-Wide&count_private=true&hide=issues,contribs&show_icons=true&theme=nightowl&hide_border=true)
 
 ## Technologies and tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaKhinevich&layout=compact&theme=nightowl&hide_border=true&langs_count=5&hide_title=true)](https://github.com/OlgaKhinevich/github-readme-stats)  
