@@ -11,9 +11,9 @@ I'm Ilya, web developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Wide&layout=compact&theme=nightowl&hide_border=true&langs_count=5&hide_title=true)](https://github.com/Elias-Wide/github-readme-stats)  
 
 #### Backend  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 #### Base  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
