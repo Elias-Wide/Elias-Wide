@@ -30,11 +30,14 @@ I'm Ilya, web developer.
 
 
 ## My projects
-| Test tasks |  |  | Pet projects |
-|----------------|:-------:|:-------:|----------------|
+| Pet projects |  Repo |
+|--------------:|----------------:|
+| Qr-trade-bot | [Code](https://github.com/Elias-Wide/qr_trade) |
+| WeatherApp | [Code](https://github.com/Elias-Wide/weather_app) |
+| aiogram-bot-structure | [Code](https://github.com/Elias-Wide/aiogram-bot-structure) | 
 
 <!--
-**OlgaKhinevich/OlgaKhinevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Elias-Wide/Elias-Wide ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👋 Hi, I’m @Elias-Wide
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
