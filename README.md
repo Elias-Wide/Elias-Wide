@@ -35,6 +35,7 @@ I'm Ilya, web developer.
 | Qr-trade-bot | [Code](https://github.com/Elias-Wide/qr_trade) |
 | WeatherApp | [Code](https://github.com/Elias-Wide/weather_app) |
 | aiogram-bot-structure | [Code](https://github.com/Elias-Wide/aiogram-bot-structure) | 
+| manager_bot | [Code](https://github.com/Elias-Wide/manager_bot) | 
 
 <!--
 **Elias-Wide/Elias-Wide ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
