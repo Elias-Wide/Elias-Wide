@@ -33,6 +33,7 @@ I'm Ilya, web developer.
 | Pet projects |  Repo |
 |--------------:|----------------:|
 | fastapi_departments_tree | [Code](https://github.com/Elias-Wide/fastapi_departments_tree) |
+| fastapi-boilerplate | [Code](https://github.com/Elias-Wide/fastapi-boilerplate) |
 | Qr-trade-bot | [Code](https://github.com/Elias-Wide/qr_trade) |
 | WeatherApp | [Code](https://github.com/Elias-Wide/weather_app) |
 | aiogram-bot-structure | [Code](https://github.com/Elias-Wide/aiogram-bot-structure) | 
